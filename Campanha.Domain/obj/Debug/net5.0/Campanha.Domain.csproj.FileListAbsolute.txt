@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\bin\Debug\net5.0\Campanha.Domain.deps.json
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\bin\Debug\net5.0\Campanha.Domain.dll
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\bin\Debug\net5.0\ref\Campanha.Domain.dll
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\bin\Debug\net5.0\Campanha.Domain.pdb
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.dll
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\ref\Campanha.Domain.dll
+C:\Users\lucas\Desktop\Projeto\Campanha.Domain\obj\Debug\net5.0\Campanha.Domain.pdb
